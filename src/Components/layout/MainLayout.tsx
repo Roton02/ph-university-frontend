@@ -26,7 +26,7 @@ const MainLayout = () => {
             alignItems: 'center',
           }}
         >
-          <h1>PH Uni</h1>
+          <h1>PH Univerrsity</h1>
         </div>
         <Menu
           theme="dark"
