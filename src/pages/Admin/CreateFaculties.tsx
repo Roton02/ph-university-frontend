@@ -1,5 +1,5 @@
 
-export default function CreateFaculties() {
+export default function CreateFaculty() {
   return (
     <div>CreateFaculties</div>
   )
